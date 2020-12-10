@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**raman77768/raman77768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Raman👋
+I'm Ramandeep Singh, a 21-year old technical enthusiast who does Python development and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramandeep-singh-941a6b1a0) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/raman77768)
 
-Here are some ideas to get you started:
+<!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on Open Source Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Raman's github stats](https://github-readme-stats.vercel.app/api?username=raman77768&show_icons=true&theme=dark)
+
+⭐️ From [Ramandeep Singh](https://github.com/raman77768)
