@@ -12,7 +12,7 @@ I'm Ramandeep Singh, a 21-year old technical enthusiast who does Python developm
 
 ![Raman's github stats](https://github-readme-stats.vercel.app/api?username=raman77768&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raman77768&layout=compact)](https://github.com/raman77768/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raman77768&layout=compact&count_private=true)](https://github.com/raman77768/github-readme-stats)
 
 
 ⭐️ From [Ramandeep Singh](https://github.com/raman77768)
