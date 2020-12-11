@@ -4,12 +4,12 @@ I'm Ramandeep Singh, a 21-year old technical enthusiast who does Python developm
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramandeep-singh-941a6b1a0) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/raman77768)
 
-<!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
+
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Open Source Projects.
 
 
 
-![Raman's github stats](https://github-readme-stats.vercel.app/api?username=raman77768&show_icons=true&theme=dark)
+![Raman's github stats](https://github-readme-stats.vercel.app/api?username=raman77768&count_private=true&show_icons=true&theme=onedark)
 
 ⭐️ From [Ramandeep Singh](https://github.com/raman77768)
