@@ -1,6 +1,6 @@
 
 ### Hi there I'm Raman👋
-I'm Ramandeep Singh, a 21-year old technical enthusiast who does Python development and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+I'm Ramandeep Singh, a 21-year old technical enthusiast who does Python development and ML/DL development. Passionate to contribute in open-source projects and make cool products.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramandeep-singh-941a6b1a0) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/raman77768)
 
